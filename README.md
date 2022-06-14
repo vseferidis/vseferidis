@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vseferidis
+- 👀 I’m interested in design & development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on an awesome idea
+- 📫 Reach me at seferidis.de or hello@seferidis.de
